@@ -40,6 +40,25 @@
  
  
  __9.	Calcule la inductancia de la bobina de núcleo de aire de la figura 13-31, si l=20cm, N=200 vueltas, y d=2cm.__
+
+__11__
+
+__13.	La figura 13-34 muestra la corriente en una bobina. Si el voltaje de 0 a 2 ms es de  100 volts, ¿qué valor tiene L?__
+
+__15.	La figura 13-36 muestra la gráfica del voltaje en una inductancia. Los cambios en la corriente de 4 a 5 A durante el intervalo de tiempo de 4 a 5 s.__
+
+*a.	¿Qué valor tiene L?*
+
+*b.	Determine la forma de onda de la corriente y grafíquela.*
+
+*c.	¿Cuál es la corriente en t=10 s?*
+
+__17.	¿Cuál es la inductancia equivalente de 12, 14, 22, y 36 mH conectados en serie?__
+
+
+__19.	Repita el problema 17 si las inductancias están conectadas en paralelo.__
+
+
 __21. Determine LT para los circuitos de la figura 13-37.__
 
 
