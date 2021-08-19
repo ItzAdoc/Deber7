@@ -63,52 +63,85 @@ __21. Determine LT para los circuitos de la figura 13-37.__
 
 ![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.21.png)
 
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.21a.PNG)
+
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.21b.PNG)
+
 __23. Una inductancia de 30 µH está conectada en serie con una inductancia de 60 µH, y una inductancia de 10 µH está conectada en paralelo con la combinación en serie. ¿Qué valor tiene LT?__
 
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.23.PNG)
 
 __25. Para los circuitos de la figura 13-40, determine L3 y L4.__
 
 ![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.25.png)
 
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.25a.PNG)
+
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.25b.PNG)
+
 __27. Dos inductancias de 6 y 4 H están en conectadas en paralelo. Después de que se agrega una tercera inductancia, LT = 4H. ¿Cuál es el valor de la tercera inductancia y cómo está conectada?__
 
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.27.PNG)
 
 __29. Inductancias de 8, 12 y 1.2 H están conectadas en un circuito. Si LT= 6 H, ¿cómo están conectados los inductores?__
 
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.29.PNG)
 
 __31. Por medio de la combinación de elementos, reduzca cada uno de los circuitos de la figura 13-42 a su forma más simple.__
 
 ![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.31.png)
 
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.31a.PNG)
+
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.31b.PNG)
+
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.31c.PNG)
+
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.31d.PNG)
 __33. Encuentre la energía almacenada en el inductor de la figura 13-44.__
 
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.33.PNG)
 
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.33a.PNG)
 
 __35. En la figura 13-46, un medidor de inductancia mide 7 H. ¿Cuál es la falla probable?__
 
 ![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.35.png)
 
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.35.PNG)
+
 La trayectoria que contiene a los inductores L1 y L2 está abierta.
 
 __CÁPITULO 14__
   
-  
 __1. Pregunta 1  __
-
-![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.1.png)
 
 *a. ¿A qué se parece un inductor que no conduce corriente en el instante que se acciona el interruptor?*
 
    Al instante en el que el interruptor se acciona el inductor se parece a un circuito abierto.
-
+   
+   
 *b. Para cada circuito de la figura 14-37, determine iS y VL inmediatamente después de que el interruptor se cierra.*
- 
- 
+   
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.1.png)
 
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.1a.PNG)
+
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.1b.PNG)
+
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.1c.PNG)
 
 __2. Determine todos los voltajes y corrientes en la figura 14-38 inmediatamente después de que el interruptor se cierra.__
 
 ![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.2.png)
+
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.2a.PNG)
+
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.2b.PNG)
+
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.2c.PNG)
+
+
 __5. El interruptor de la figura 14-39 está cerrado en t= 0s.__
 
 *a. ¿Cuál es la constante de tiempo del circuito?*
@@ -120,6 +153,10 @@ __5. El interruptor de la figura 14-39 está cerrado en t= 0s.__
 *d. Calcule los valores para iL y VL a intervalos de una constante de tiempo desde t=0 hasta 5τ.*
  
 *e. Grafique iL y VL. Marque los ejes en t y en segundos*
+
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.png)
+
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.2.png)
  
  Corriente 
  
