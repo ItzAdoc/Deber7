@@ -114,12 +114,11 @@ La trayectoria que contiene a los inductores L1 y L2 está abierta.
 
 __CÁPITULO 14__
   
-__1. Pregunta 1  __
+__1. Pregunta 1__
 
 *a. ¿A qué se parece un inductor que no conduce corriente en el instante que se acciona el interruptor?*
 
    Al instante en el que el interruptor se acciona el inductor se parece a un circuito abierto.
-   
    
 *b. Para cada circuito de la figura 14-37, determine iS y VL inmediatamente después de que el interruptor se cierra.*
    
@@ -141,10 +140,7 @@ __2. Determine todos los voltajes y corrientes en la figura 14-38 inmediatamente
 
 ![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.2c.PNG)
 
-
 __5. El interruptor de la figura 14-39 está cerrado en t= 0s.__
-
-![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.png)
 
 *a. ¿Cuál es la constante de tiempo del circuito?*
 
@@ -156,7 +152,6 @@ __5. El interruptor de la figura 14-39 está cerrado en t= 0s.__
  
 *e. Grafique iL y VL. Marque los ejes en t y en segundos*
 
-
 ![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.5.PNG)
 
 ![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.5a.PNG)
@@ -166,7 +161,6 @@ __5. El interruptor de la figura 14-39 está cerrado en t= 0s.__
 ![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.5c.PNG)
 
 ![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.5d.PNG)
-
 
  Corriente 
  
