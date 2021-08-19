@@ -98,6 +98,7 @@ __31. Por medio de la combinación de elementos, reduzca cada uno de los circuit
 ![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.31c.PNG)
 
 ![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.31d.PNG)
+
 __33. Encuentre la energía almacenada en el inductor de la figura 13-44.__
 
 ![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.33.PNG)
@@ -109,7 +110,6 @@ __35. En la figura 13-46, un medidor de inductancia mide 7 H. ¿Cuál es la fall
 ![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.35.png)
 
 ![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.35.PNG)
-
 La trayectoria que contiene a los inductores L1 y L2 está abierta.
 
 __CÁPITULO 14__
@@ -144,6 +144,8 @@ __2. Determine todos los voltajes y corrientes en la figura 14-38 inmediatamente
 
 __5. El interruptor de la figura 14-39 está cerrado en t= 0s.__
 
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.png)
+
 *a. ¿Cuál es la constante de tiempo del circuito?*
 
 *b. ¿Cuánto tiempo pasa hasta que la corriente alcanza su valor estable?*
@@ -154,10 +156,18 @@ __5. El interruptor de la figura 14-39 está cerrado en t= 0s.__
  
 *e. Grafique iL y VL. Marque los ejes en t y en segundos*
 
-![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.png)
 
-![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.2.png)
- 
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.5.PNG)
+
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.5a.PNG)
+
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.5b.PNG)
+
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.5c.PNG)
+
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.5d.PNG)
+
+
  Corriente 
  
  ![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.5C1.png)
