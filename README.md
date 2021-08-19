@@ -16,7 +16,7 @@
 
  2. Marco Teórico
 
-![]()
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/MT1.jpeg)
 
 ![]()
 
@@ -27,7 +27,7 @@
   __CÁPITULO 13__
   
   
-  21. Determine LT para los circuitos de la figura 13-37.
+21. Determine LT para los circuitos de la figura 13-37.
 
 
 23. Una inductancia de 30 µH está conectada en serie con una inductancia de 60 µH, y una inductancia de 10 µH está conectada en paralelo con la combinación en serie. ¿Qué valor tiene LT?
@@ -62,7 +62,7 @@ __CÁPITULO 14__
   
   
 1. Pregunta 1  
-2. 
+
 *a. ¿A qué se parece un inductor que no conduce corriente en el instante que se acciona el interruptor?*
 
    Al instante en el que el interruptor se acciona el inductor se parece a un circuito abierto.
