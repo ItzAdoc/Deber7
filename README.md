@@ -193,7 +193,7 @@ __5. El interruptor de la figura 14-39 está cerrado en t= 0s.__
 * La energía es almacenada en el campo magnético del inductor y para calcular esta energía se usa una formula que incluye la corriente es un instante cuando la corriente alcanza su valor de estado estable y la inductancia, y el valor obtenido se mide en joule (J).   
 * La constante de tiempo es un dato muy importante en el análisis temporal (en el tiempo) de circuitos RL ya que un indicador de la velocidad de reacción del circuito ante una perturbación, y para calcularla se usa la inductancia y la resistencia.
 * a
-* b
+* Un inductor que conduce corriente parece una fuente de corriente en el instante que se acciona el interruptor. Ya que la corriente es la misma inmediatamente antes y después de accionar el interruptor, es constante en el intervalo de t=0- s a t=0+
 * Muchas veces los circuitos resultan muy complejos para su resolución por ello la mayoría de estos circuitos complejos se pueden reducirlos a formas más sencillas mediante las técnicas de reducción de circuitos, como las combinaciones serie y paralelo, conversión de fuentes, teorema de Thévenin, etcétera, y con ello una vez reducido se puede aplicar las mismas fórmulas que se usan para circuitos simples. 
 
 
