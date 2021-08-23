@@ -10,7 +10,8 @@
  
 *__Objetivos Específicos__*
 
-* Definir qué es un inductor y la inductancia.
+* Describir qué es un inductor.
+* Definir la inductancia.
 * Calcular el voltaje en una inductancia.
 * Calcular inductancia para configuraciones en serie y en paralelo.
 * Calcular voltajes y corrientes del inductor para la excitación de cd en estado estable.
@@ -187,7 +188,9 @@ __5. El interruptor de la figura 14-39 está cerrado en t= 0s.__
 
 
 5. Conclusiones 
-
+* Un inductor es una bobina, además es un componente pasivo de un circuito eléctrico que, debido al fenómeno de la autoinducción, almacena energía en forma de campo magnético.
+* La inductancia es la propiedad de un circuito eléctrico para resistir el cambio de corriente. Es decir, cuando una corriente fluye a través de un conductor, se crea un campo magnético ese campo afecta la operación del circuito.
+* Para el cálculo de las inductancias en serie o en paralelo, la inductancia equivalente se determina con las mismas reglas que se usaron para la resistencia.
 
 
 
