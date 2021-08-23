@@ -12,11 +12,9 @@
 
 * Describir qué es un inductor.
 * Definir la inductancia.
-* Calcular el voltaje en una inductancia.
 * Calcular inductancia para configuraciones en serie y en paralelo.
 * Calcular voltajes y corrientes del inductor para la excitación de cd en estado estable.
 * Calcular la energía almacenada en una inductancia.
-* Calcular las constantes de tiempo para los circuitos RL.
 * Calcular los transitorios de voltaje y corriente en circuitos RL durante la fase de crecimiento y disminución de la corriente.
 * Explicar por qué un inductor con condición inicial diferente de cero parece una fuente de corriente cuando se le perturba. 
 * Resolver problemas de transitorios RL moderadamente complejos con las técnicas de simplificación de circuitos.
@@ -191,6 +189,8 @@ __5. El interruptor de la figura 14-39 está cerrado en t= 0s.__
 * Un inductor es una bobina, además es un componente pasivo de un circuito eléctrico que, debido al fenómeno de la autoinducción, almacena energía en forma de campo magnético.
 * La inductancia es la propiedad de un circuito eléctrico para resistir el cambio de corriente. Es decir, cuando una corriente fluye a través de un conductor, se crea un campo magnético ese campo afecta la operación del circuito.
 * Para el cálculo de las inductancias en serie o en paralelo, la inductancia equivalente se determina con las mismas reglas que se usaron para la resistencia.
+* Para calcular el voltaje y corriente de un inductor cuando el circuito adquiere el estado estable. Primero se ubica los inductores como un cortocircuito, se calcula el voltaje, corriente y resistencia como un circuito cualquiera y a partir de ahí se aplica cualquier método para la resolución de circuitos y con ello se obtiene voltaje y corriente de un inductor. 
+* La energía es almacenada en el campo magnético del inductor y para calcular esta energía se usa una formula que incluye la corriente es un instante cuando la corriente alcanza su valor de estado estable y la inductancia, y el valor obtenido se mide en joule (J).   
 
 
 
