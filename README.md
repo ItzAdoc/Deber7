@@ -4,15 +4,22 @@
 
  *__Objetivos Generales__*
  
-* 
+* Explicar todo lo relacionado con inductancia e inductores.
 
-* 
+* Explicar todo lo relacionado con los transitorios inductivos.
  
 *__Objetivos Específicos__*
 
-*
-*
-*
+* Definir qué es un inductor y la inductancia.
+* Calcular el voltaje en una inductancia.
+* Calcular inductancia para configuraciones en serie y en paralelo.
+* Calcular voltajes y corrientes del inductor para la excitación de cd en estado estable.
+* Calcular la energía almacenada en una inductancia.
+* Calcular las constantes de tiempo para los circuitos RL.
+* Calcular los transitorios de voltaje y corriente en circuitos RL durante la fase de crecimiento y disminución de la corriente.
+* Explicar por qué un inductor con condición inicial diferente de cero parece una fuente de corriente cuando se le perturba. 
+* Resolver problemas de transitorios RL moderadamente complejos con las técnicas de simplificación de circuitos.
+
 
  2. Marco Teórico
 
