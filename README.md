@@ -192,7 +192,9 @@ __5. El interruptor de la figura 14-39 está cerrado en t= 0s.__
 * Para calcular el voltaje y corriente de un inductor cuando el circuito adquiere el estado estable. Primero se ubica los inductores como un cortocircuito, se calcula el voltaje, corriente y resistencia como un circuito cualquiera y a partir de ahí se aplica cualquier método para la resolución de circuitos y con ello se obtiene voltaje y corriente de un inductor. 
 * La energía es almacenada en el campo magnético del inductor y para calcular esta energía se usa una formula que incluye la corriente es un instante cuando la corriente alcanza su valor de estado estable y la inductancia, y el valor obtenido se mide en joule (J).   
 * La constante de tiempo es un dato muy importante en el análisis temporal (en el tiempo) de circuitos RL ya que un indicador de la velocidad de reacción del circuito ante una perturbación, y para calcularla se usa la inductancia y la resistencia.
-* 
+* a
+* b
+* Muchas veces los circuitos resultan muy complejos para su resolución por ello la mayoría de estos circuitos complejos se pueden reducirlos a formas más sencillas mediante las técnicas de reducción de circuitos, como las combinaciones serie y paralelo, conversión de fuentes, teorema de Thévenin, etcétera, y con ello una vez reducido se puede aplicar las mismas fórmulas que se usan para circuitos simples. 
 
 
 6. Bibliografía
