@@ -24,7 +24,7 @@
 
 ![](https://github.com/ItzAdoc/Imagenes7/blob/main/MT1.jpeg)
 
-![]()
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/m14.jpeg)
 
 3. Resolución de los ejercicios
 
