@@ -34,37 +34,56 @@
   
  __1.	Si el flujo que enlaza un bobina de 75 vueltas (figura 13-29) cambia a la tasa de 3 Wb/s. ¿cuál es el voltaje en la bobina?__
  
+ ![](https://github.com/ItzAdoc/Imagenes7/blob/main/Ej1.jpg)
  
  __3.	El flujo que cambia a una tasa uniforme por 1ms induce 60 V en una bobina. ¿Cuál es el voltaje inducido si el mismo cambio de flujo ocurre en 0,01s?__
  
+  ![](https://github.com/ItzAdoc/Imagenes7/blob/main/Ej3.jpg)
  
  __5. La corriente en un inductor de 75 mH (figura 13-30) cambia uniformemente por 200 µA en 0,1 ms. ¿Cuál es el voltaje en él?__
  
- 
+  ![](https://github.com/ItzAdoc/Imagenes7/blob/main/Ej5.jpg)
+  
  __7.	El voltaje inducido cuando la corriente cambia de forma uniforme de 3 a 5amperes en un inductor de 10 H es de 180 volts. ¿Cuánto tiempo pasara para que la corriente cambie de 3 a 5 amperes?__
  
- 
+  ![](https://github.com/ItzAdoc/Imagenes7/blob/main/Ej7.jpg)
  
  __9.	Calcule la inductancia de la bobina de núcleo de aire de la figura 13-31, si l=20cm, N=200 vueltas, y d=2cm.__
 
+ ![](https://github.com/ItzAdoc/Imagenes7/blob/main/Ej9.jpg)
+ 
 __11__
 
+ ![](https://github.com/ItzAdoc/Imagenes7/blob/main/Ej11.2.jpg)
+ 
+  ![](https://github.com/ItzAdoc/Imagenes7/blob/main/Ej11.2.jpg)
+  
 __13.	La figura 13-34 muestra la corriente en una bobina. Si el voltaje de 0 a 2 ms es de  100 volts, ¿qué valor tiene L?__
 
+ ![](https://github.com/ItzAdoc/Imagenes7/blob/main/Ej13.jpg)
+ 
 __15.	La figura 13-36 muestra la gráfica del voltaje en una inductancia. Los cambios en la corriente de 4 a 5 A durante el intervalo de tiempo de 4 a 5 s.__
 
-*a.	¿Qué valor tiene L?*
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/Ej15.1.jpg)
+ 
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/Ej15.2.jpg)
+  
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/Ej15.3.jpg)
+   
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/Ej15.4.jpg)
 
-*b.	Determine la forma de onda de la corriente y grafíquela.*
-
-*c.	¿Cuál es la corriente en t=10 s?*
+ ![](https://github.com/ItzAdoc/Imagenes7/blob/main/Ej15.5.jpg)
+ 
+  ![](https://github.com/ItzAdoc/Imagenes7/blob/main/Ej15.6.jpg)
 
 __17.	¿Cuál es la inductancia equivalente de 12, 14, 22, y 36 mH conectados en serie?__
 
-
+ ![](https://github.com/ItzAdoc/Imagenes7/blob/main/Ej17.jpg)
+ 
 __19.	Repita el problema 17 si las inductancias están conectadas en paralelo.__
 
-
+ ![](https://github.com/ItzAdoc/Imagenes7/blob/main/Ej19.jpg)
+ 
 __21. Determine LT para los circuitos de la figura 13-37.__
 
 ![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.21.png)
