@@ -198,11 +198,10 @@ __5. El interruptor de la figura 14-39 está cerrado en t= 0s.__
  ![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.5V1.png)
  
  ![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.5V2.png)
-
-
-
+ 
 4. Video 
 
+https://youtu.be/RNX3IBVWToI
 
 5. Conclusiones 
 * Un inductor es una bobina, además es un componente pasivo de un circuito eléctrico que, debido al fenómeno de la autoinducción, almacena energía en forma de campo magnético.
