@@ -198,6 +198,34 @@ __5. El interruptor de la figura 14-39 está cerrado en t= 0s.__
  ![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.5V1.png)
  
  ![](https://github.com/ItzAdoc/Imagenes7/blob/main/14.5V2.png)
+
+
+__7. Repita el problema 5 Para el circuito de la figura 14- 41 con l igual cuatro L = 4H.__
+
+ ![](https://github.com/ItzAdoc/Imagenes7/blob/main/7.1.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 4. Video 
 
