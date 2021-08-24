@@ -52,7 +52,7 @@
 
  ![](https://github.com/ItzAdoc/Imagenes7/blob/main/Ej9.jpg)
  
-__11__
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.11.PNG)
 
  ![](https://github.com/ItzAdoc/Imagenes7/blob/main/Ej11.2.jpg)
  
