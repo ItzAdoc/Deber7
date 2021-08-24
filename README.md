@@ -234,15 +234,29 @@ __19. Para la figura 14- 43. L=20H. La corriente durante la fase de crecimiento 
 ![](https://github.com/ItzAdoc/Imagenes7/blob/main/19.jpg)
 
 
+__21. Para la bobina de la figura 14-45. R= 1.7Ω y L= 150mH. Determine la corriente de la bobina en t=18,4 ms.__
+
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/21.1.jpg)
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/21.2.jpg)
+
+
+__23. Para la figura 14- 46, el circuito ha alcanzado el estado estable con el interruptor cerrado. Ahora se abre el interruptor.__
+
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/23.jpg)
+
+__25. Repite el problema 22, partes (a) y (b) para el circuito de la figura 14-47.__
+
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/25.1.jpg)
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/25.2.jpg)
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/25.3.jpg)
+
+
+__27. Un circuito desconocido que contiene fuentes CD y resistores tienen un voltaje a circuito abierto de 45 V. Cuando sus terminales de salida se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia están conectados a la figura 14-48. Determine la corriente y el voltaje del inductor, 2.5 ms después que el interruptor sea cerrado.__
+
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/27.jpg)
 
 
 
-
-
-
-
-
- 
 4. Video 
 
 https://youtu.be/RNX3IBVWToI
