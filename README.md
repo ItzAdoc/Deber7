@@ -203,19 +203,35 @@ __5. El interruptor de la figura 14-39 está cerrado en t= 0s.__
 __7. Repita el problema 5 Para el circuito de la figura 14- 41 con l igual cuatro L = 4H.__
 
  ![](https://github.com/ItzAdoc/Imagenes7/blob/main/7.1.jpg)
+ ![](https://github.com/ItzAdoc/Imagenes7/blob/main/7.2.jpg)
+
+__9. Cierre el interruptor en t= 0 s Y determine las ecuaciones para I_L y V_L para el circuito de la figura 14- 42.
+Calcule I_L y V_L en te igual 3.4 ms.__
+
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/9.jpg)
+
+__11. Para el circuito de la figura 14- 1(b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, La corriente final de Estado estable es 4 A, y El transitorio dura 0,5 s. Determine E, R y L.__
+
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/11.jpg)
 
 
+__13. Para la figura 14 – 1(b), si V_L = 40e^(-2000t) V y la corriente de estado estable es 10 mA, ¿Cuáles son los valores de E, R y L?.__
 
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/13.jpg)
 
+__15. Para la figura 14-43, R_1= 20Ω,  R_2 = 230Ω y L = 0.5 H y la corriente del inductor ha alcanzado un valor estable de 5 A con el interruptor cerrado. En t = 0 s, el interruptor se abre.__
 
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/15.1.jpg)
 
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/15.2.jpg)
 
+__17. Dado V_L = -2700e^(-100t). Use la curva universal de la constante de tiempo para determinar V_L en t = 20ms.__
 
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/17.jpg)
 
+__19. Para la figura 14- 43. L=20H. La corriente durante la fase de crecimiento y disminución se muestra en la figura 14-44. Determiné R_1 y R_2.__
 
-
-
-
+![](https://github.com/ItzAdoc/Imagenes7/blob/main/19.jpg)
 
 
 
